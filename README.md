@@ -1,4 +1,4 @@
-# .github![bloger _2_.jpeg](https://s2.loli.net/2022/05/25/5DUjiyKT7eqWNXd.png# 西农开发者联盟（民间）
+# 西农开发者联盟（民间）
 ## 这是什么
 
 这是一个民间的开发者组织，也许会开发些有用的东西
