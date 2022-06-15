@@ -5,7 +5,7 @@
 
 ## 标志
 <div style="text-align:center">
-<img src="logo/nwafucp.png" width="300px">
+<img src="logo/nwafucp1.png" width="300px">
 </div>
 
 - 我们的标志初步由字母 **CP** (Computer Programmer)结合的发条组成，象征生产与开发的动力，（绝不是因为两个字母放一块比较简单）
