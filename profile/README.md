@@ -3,6 +3,9 @@
 
 这是一个民间的开发者组织，也许会开发些有用的东西
 
+## 站点
+我们的引导页:[https://cp.nwafu.icu/](https://cp.nwafu.icu/)  
+
 ## 标志
 <div style="text-align:center">
 <img src="logo/nwafucp1.png" width="300px">
